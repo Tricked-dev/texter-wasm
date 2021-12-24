@@ -3,7 +3,7 @@
 ## Installing
 
 install [WasmCord](https://github.com/Tricked-dev/WasmCord),
-go to the wasmcord folder then into the wasmcord plugins folder ( if this doesn't exist restart discord ) then run `git clone -b dist https://github.com/Tricked-dev/WasmCord`
+go to the wasmcord folder then into the wasmcord plugins folder ( if this doesn't exist restart discord ) then run `git clone -b dist https://github.com/Tricked-dev/texter-wasm`
 
 ## Getting started
 
